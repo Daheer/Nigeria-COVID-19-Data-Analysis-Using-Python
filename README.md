@@ -113,6 +113,10 @@ Plots Created
 - heatmap
 - pie
 
+Expressions
+
+- lambda expression
+
 # Presentation
 
 Can be found in <a href = 'covidproject.pptx'> covidproject.pptx </a>
